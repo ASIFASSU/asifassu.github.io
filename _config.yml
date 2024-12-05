@@ -18,8 +18,7 @@ title: 0x4SUS # the main title
 
 tagline: Android Security Researcher
 
-description: >- # used by seo meta and the atom feed
-  c3VkbyBlY2hvICJjM1ZrYnlCeWJTQXRjbVlnTHlvZ0xTMXVieTF3Y21WelpYSjJaUzF5YjI5MCIgfCBiYXNlNjQgLWQgfCAgYmFzaA== # it will display as the subtitle
+description: c3VkbyBlY2hvICJjM1ZrYnlCeWJTQXRjbVlnTHlvZ0xTMXVieTF3Y21WelpYSjJaUzF5YjI5MCIgfCBiYXNlNjQgLWQgfCAgYmFzaA== # it will display as the subtitle
 
 
 # Fill in the protocol & hostname for your site.
@@ -137,11 +136,9 @@ assets:
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
-
 pwa:
   enabled: true # The option for PWA feature (installable)
-  cache:sudo openvpn --config 'enterprise.corellium.com VPN - asifshaik7093gmailcom6637cce52b56624ee505052flabcyclicscanner.ovpn'
-
+  cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
